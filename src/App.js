@@ -24,7 +24,7 @@ import {
 } from "./pages";
 
 function App() {
-  const activeMenu = false;
+  const activeMenu = true;
   return (
     <div>
       <BrowserRouter>
