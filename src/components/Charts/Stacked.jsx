@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import {
+  SparklineComponent,
+  Inject,
+  SparklineTooltip,
+} from "@syncfusion/ej2-react-charts";
 
 const Stacked = () => {
-  return (
-    <div>Stacked</div>
-  )
-}
+  return <div>Stacked</div>;
+};
 
-export default Stacked
+export default Stacked;
