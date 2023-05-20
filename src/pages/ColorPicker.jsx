@@ -31,7 +31,7 @@ const ColorPicker = () => {
               id="inline-picker"
               mode="Picker"
               modeSwitcher={false}
-              inline
+              inline={true}
               showButtons={false}
               change={change}
             />
